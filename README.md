@@ -2,7 +2,7 @@
 
 MME pipeline capable of handling the entire multidimensionality of multispectral data, or alternatively only the most informative bands, without the need for reduction, in order to maximise detection performance.
 
-
+---
 
 ### MME architecture example
 ```
@@ -22,4 +22,7 @@ The concept of the proposed MME methodology, in which input data can include var
 
 ![MME architecture overview](./images/Generic_MultidimData_MME.png)
 
+---
 
+### Install dependencies
+pip install -r requirements.txt
